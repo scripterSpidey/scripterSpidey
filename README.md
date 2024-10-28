@@ -12,6 +12,10 @@ I am Ahammed Zulaikh. I go by the name ScripterSpidey on the internet. I am a se
 ![Node.TS](https://img.shields.io/badge/tsnode-3178C6.svg?style=for-the-badge&logo=ts-node&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![PstgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![BootStrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![ReactBootstrap](https://img.shields.io/badge/React%20Bootstrap-41E0FD.svg?style=for-the-badge&logo=React-Bootstrap&logoColor=black)
+![FramerMotion](https://img.shields.io/badge/Framer-0055FF.svg?style=for-the-badge&logo=Framer&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.io-010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 
 
