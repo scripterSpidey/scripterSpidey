@@ -4,7 +4,7 @@ I am Ahammed Zulaikh. I go by the name ScripterSpidey on the internet. I am a se
 
 ## Skills
 
-https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 
 
 <!--
