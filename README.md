@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Ahammed Zulaikh. I go by the name ScripterSpidey on the internet. I am a self taught web developer. I enjoy crafting the web using JavaScript, Power it by NodeJS, Feed it with MonogoDB and brong them to life by React. 
+I am Ahammed Zulaikh. I go by the name ScripterSpidey on the internet. I am a self taught web developer. I enjoy crafting the web using JavaScript, Power it by NodeJS, Feed it with MonogoDB and bring them to life by React. 
 
 ## Skills
 
